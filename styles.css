@@ -3,11 +3,14 @@ header {
   display: flex;
 }
 
-ul {
+header li {
   list-style: none;
-  text-decoration: none;
 }
 
 a[href] {
   color: #e5e7eb;
+}
+
+li a {
+  text-decoration: none;
 }
