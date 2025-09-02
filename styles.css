@@ -1,6 +1,12 @@
+body {
+  font-family: roboto;
+  margin: 0;    
+}
+
 header {
   background: #131922;
   display: flex;
+  justify-content: space-between;
 }
 
 header li {
@@ -14,4 +20,9 @@ a[href] {
 
 li a {
   text-decoration: none;
+}
+
+li {
+  font-size: 22px;
+  font-weight: 600;
 }
