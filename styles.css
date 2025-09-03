@@ -52,3 +52,14 @@ li {
   font-weight: 600;
   text-align: center;
 }
+
+.subtext {
+  color:white;
+  font-size: 19px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 165px;
+  margin-top: 4px;
+  width: 320px;
+  text-align: center;
+}
