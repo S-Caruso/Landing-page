@@ -93,3 +93,10 @@ li {
   margin-top: 100px;
   text-align: center;
 }
+
+.flex-container > .box {
+  border: solid #3882F6;
+  border-radius: 30px;
+  height: 200px;
+  width: 200px;
+}
