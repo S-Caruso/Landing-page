@@ -16,7 +16,10 @@ header li {
 }
 
 .logo {
+  position: absolute;
   margin-left: 60px;
+  margin-top: 17px;
+  top: 0; 
 }
 
 .navbar {
