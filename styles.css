@@ -41,3 +41,14 @@ li {
   font-size: 22px;
   font-weight: 600;
 }
+
+.maintext {
+  color: white;
+  font-size: 47px;
+  margin-left: 108px;
+  margin-top: 10px;
+  word-break: break-word;
+  width: 449px;
+  font-weight: 600;
+  text-align: center;
+}
