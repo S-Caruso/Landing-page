@@ -12,6 +12,11 @@ header {
 header li {
   list-style: none;
   display: inline-block;
+  padding: 0 45px;
+}
+
+.logo {
+  margin-left: 60px;
 }
 
 a[href] {
