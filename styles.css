@@ -19,6 +19,12 @@ header li {
   margin-left: 60px;
 }
 
+.navbar {
+  position: absolute;
+  top: 0;
+  margin-left: 727px;
+}
+
 a[href] {
   color: #e5e7eb;
 }
