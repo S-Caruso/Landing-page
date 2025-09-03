@@ -78,3 +78,11 @@ li {
   margin-top: 0px;
   margin-right: 135px;
 }
+
+.infos {
+  color:black;
+  font-size: 22px;
+  font-weight:600;
+  margin-top: 40px;
+  text-align: center;
+}
