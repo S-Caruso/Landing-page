@@ -74,6 +74,11 @@ li {
   padding: 6px 29px 6px 29px;
 }
 
+.button1 {
+  margin-left: 260px;
+  margin-top: 8px;
+}
+
 .buddha {
   margin-top: 0px;
   margin-right: 135px;
@@ -149,4 +154,9 @@ h3 {
   font-size: 18px;
   font-weight: 500;
   margin-top:-25px;
+}
+
+.action-button {
+  margin-top: -35px;
+  padding-left: 610px;
 }
