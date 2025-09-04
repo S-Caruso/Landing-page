@@ -44,97 +44,6 @@ li {
 
 .maintext {
   color: white;
-  font-size: 47px;
-  margin-left: 108px;
-  margin-top: 10px;
-  word-break: break-word;
-  width: 449px;
-  font-weight: 600;
-  text-align: center;
-}
-
-.subtext {
-  color:white;
-  font-size: 19px;
-  font-style: italic;
-  font-weight: 300;
-  margin-left: 165px;
-  margin-top: 4px;
-  width: 320px;
-  text-align: center;
-}
-
-.button {
-  background-color: #3882F6;
-  color: white;
-  font-weight: 600;
-  border-radius: 7px;
-  padding: 6px 29px 6px 29px;
-  margin-left: 260px;
-  margin-top: 8px;
-}
-
-.buddha {
-  margin-top: 0px;
-  margin-right: 135px;
-}
-
-.infos {
-  color:black;
-  font-size: 22px;
-  font-weight:600;
-  margin-top: 40px;
-  text-align: center;
-}
-
-.flex-container {
-  display: flex;
-  margin-top: 55body {
-  font-family: roboto;
-  margin: 0;    
-}
-
-header {
-  background: #131922;
-  display: flex;
-  justify-content: space-between;
-  padding: 170px 0px;
-}
-
-header li {
-  list-style: none;
-  display: inline-block;
-  padding: 0 45px;
-}
-
-.logo {
-  position: absolute;
-  margin-left: 60px;
-  margin-top: 17px;
-  top: 0; 
-}
-
-.navbar {
-  position: absolute;
-  top: 0;
-  margin-left: 727px;
-}
-
-a[href] {
-  color: #e5e7eb;
-}
-
-li a {
-  text-decoration: none;
-}
-
-li {
-  font-size: 22px;
-  font-weight: 600;
-}
-
-.maintext {
-  color: white;
   font-size: 25px;
   margin-left: 108px;
   margin-top: -50px;
@@ -150,7 +59,7 @@ li {
   font-style: italic;
   font-weight: 300;
   margin-left: 165px;
-  margin-top: 4px;
+  margin-top: -20px;
   width: 320px;
   text-align: center;
 }
@@ -195,3 +104,30 @@ li {
   text-align: center;
   margin-top: 200px;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center; 
+  margin-top: 230px;
+  margin-bottom: 120px;
+
+}
+
+.quote {
+  font-size: 35px;
+  font-style: italic;
+  font-weight: 180;
+  margin-top: 70px;
+}
+
+.author {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 0px;
+  padding-top: 20px;    
+}
+ 
