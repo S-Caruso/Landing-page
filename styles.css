@@ -143,3 +143,10 @@ h3 {
   font-weight: 600;
   margin-top: 0px;
 }
+
+.action-product {
+  color:  rgb(212, 206, 206);
+  font-size: 18px;
+  font-weight: 500;
+  margin-top:-25px;
+}
