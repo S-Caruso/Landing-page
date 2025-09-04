@@ -66,12 +66,12 @@ li {
 
 .button {
   background-color: #3882F6;
+  border: 2px solid white;
   color: white;
+  font-size: 18px;
   font-weight: 600;
   border-radius: 7px;
   padding: 6px 29px 6px 29px;
-  margin-left: 260px;
-  margin-top: 8px;
 }
 
 .buddha {
