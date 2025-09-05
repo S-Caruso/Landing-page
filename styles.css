@@ -60,8 +60,9 @@ li {
   font-weight: 300;
   margin-left: 165px;
   margin-top: -20px;
-  width: 320px;
+  width: 349px;
   text-align: center;
+  word-break: break-word;
 }
 
 button {
@@ -129,8 +130,9 @@ button {
 }
 
 .author {
-  font-size: 20px;
+  font-size: 23px;
   font-style: italic;
+  font-weight: 500;
   margin-top: 0px;
   padding-top: 20px;    
 }
