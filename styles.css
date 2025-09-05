@@ -4,10 +4,10 @@ body {
 }
 
 header {
-  background: #131922;
+  background: #0c1014;;
   display: flex;
   justify-content: space-between;
-  padding: 170px 0px;
+  padding: 150px 0px;
 }
 
 header li {
@@ -54,7 +54,7 @@ li {
 }
 
 .subtext {
-  color:white;
+  color:rgba(255, 255, 255, 0.623);
   font-size: 19px;
   font-style: italic;
   font-weight: 300;
