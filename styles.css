@@ -111,11 +111,51 @@ button:hover {
 }
 
 .infos {
-  color:black;
+  color: hsl(43, 68%, 61%);
   font-size: 22px;
   font-weight:400;
   margin-top: 40px;
   text-align: center;
+  word-spacing: 2px;
+  letter-spacing: 3px;
+}
+
+.treats {
+  color: rgb(95, 55, 55);
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.6;
+}
+
+h2 {
+  color: hsl(43, 68%, 61%);
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.thai {
+  margin-left: 102px;
+  margin-top: 60px;
+  margin-bottom: -80px;
+}
+
+.oil {
+  margin-left: 450px;
+  margin-top: 49px;
+  margin-bottom: -80px;    
+}
+
+.foot {
+  margin-left: 772px;
+  margin-top: 53px;
+  margin-bottom: -80px; 
+}
+
+.couple {
+  margin-left: 1083px;
+  margin-top: 50px;
+  margin-bottom: -80px; 
 }
 
 .flex-container {
