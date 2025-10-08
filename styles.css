@@ -158,9 +158,10 @@ button:hover {
 .author {
   font-size: 23px;
   font-style: italic;
-  font-weight: 500;
   margin-top: 0px;
-  padding-top: 20px;    
+  padding-top: 20px;
+  text-align-last: right;
+  width: 69vW;  
 }
 
 .action-container {
