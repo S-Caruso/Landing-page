@@ -68,15 +68,17 @@ li:hover {
 }
 
 .subtext {
-  color: rgba(255, 255, 255, 0.623);
+  color: hsl(43, 58%, 60%);
   font-size: 22px;
   font-style: italic;
   font-weight: 500;
   margin-left: 165px;
-  margin-top: -20px;
-  width: 349px;
+  margin-top: 4px;
+  width: 333px;
   text-align: center;
   word-break: break-word;
+  word-spacing: 1px;
+  letter-spacing: 3px;
 }
 
 button {
