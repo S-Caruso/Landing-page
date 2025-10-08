@@ -167,7 +167,6 @@ h2 {
 
 .flex-container > div {
   border: solid #3882F6;
-  border-radius: 30px;
   height: 200px;
   width: 300px;
 }
@@ -191,6 +190,7 @@ h2 {
   text-align: center; 
   margin-top: 230px;
   margin-bottom: 120px;
+  padding-bottom: 30px;
   border-color: #000000;
   border-style:groove;
   border-width:0.8;
