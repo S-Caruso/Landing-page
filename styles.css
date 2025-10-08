@@ -57,10 +57,10 @@ li:hover {
 }
 
 .maintext {
-  color: white;
-  font-size: 35px;
+  color: #f9faf8;
+  font-size: 47px;
   margin-left: 108px;
-  margin-top: -50px;
+  margin-top: 10px;
   word-break: break-word;
   width: 449px;
   font-weight: 600;
