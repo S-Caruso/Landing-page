@@ -215,7 +215,7 @@ h2 {
 }
 
 .action-container {
-  background-color: #3882F6;
+  background-color: hsl(43, 68%, 61%);
   margin: 100px 210px 120px 210px;
   padding: 50px 100px 50px;
   border-radius: 8px;
