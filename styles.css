@@ -5,6 +5,7 @@ body {
 
 header {
   background: #0c1014;
+  background-image: linear-gradient(to right bottom,black,rgba(82, 80, 80, 0.301), #3882F6, #3f7d95, #c78c88,#d69792);
   display: flex;
   justify-content: space-between;
   padding: 150px 0px;
