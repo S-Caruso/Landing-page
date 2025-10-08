@@ -58,27 +58,29 @@ li:hover {
 
 .maintext {
   color: #f9faf8;
-  font-size: 47px;
-  margin-left: 108px;
-  margin-top: 10px;
+  font-size: 52px;
+  margin-left: 155px;
+  margin-top: -18px;
   word-break: break-word;
-  width: 449px;
+  width: 350px;
   font-weight: 600;
   text-align: center;
+  word-spacing: 1px;
+  letter-spacing: 3px;
 }
 
 .subtext {
   color: hsl(43, 58%, 60%);
-  font-size: 22px;
+  font-size: 23px;
   font-style: italic;
   font-weight: 500;
   margin-left: 165px;
   margin-top: 4px;
-  width: 333px;
+  width: 330px;
   text-align: center;
   word-break: break-word;
   word-spacing: 1px;
-  letter-spacing: 3px;
+  letter-spacing: 2.7px;
 }
 
 button {
