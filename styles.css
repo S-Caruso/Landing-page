@@ -34,6 +34,7 @@ header li {
   top: 0;
   margin-left: 727px;
   margin-top: 30px;
+  cursor: pointer;
   transition: 80ms;
 }
 
@@ -51,7 +52,7 @@ li {
 }
 
 li:hover {
-  transform: scale(1.40);
+  transform: scale(1.23);
 }
 
 .maintext {
@@ -86,6 +87,11 @@ button {
   border-radius: 7px;
   padding: 6px 29px 6px 29px;
   cursor: pointer;
+  transition: 80ms;
+}
+
+button:hover {
+  transform: scale(1.23);
 }
 
 .button1 {
