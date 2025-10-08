@@ -201,15 +201,17 @@ h2 {
   font-style: italic;
   font-weight: 180;
   margin-top: 70px;
+  word-break: break-all;
+  width: 775px;
 }
 
 .author {
-  font-size: 23px;
+  font-size: 30px;
   font-style: italic;
   margin-top: 0px;
   padding-top: 20px;
   text-align-last: right;
-  width: 69vW;  
+  width: 53vW;  
 }
 
 .action-container {
