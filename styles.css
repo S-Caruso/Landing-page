@@ -168,13 +168,12 @@ h2 {
 .flex-container > .box {
   border: solid #3882F6;
   border-radius: 30px;
-  height: 180px;
-  width: 180px;
+  height: 200px;
+  width: 300px;
 }
 
-.sub {
+.sub, .sub2, .sub3, .sub4 {
   text-align: center;
-  margin-top: 200px;
 }
 
 .quote-container {
