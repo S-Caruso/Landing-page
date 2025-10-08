@@ -169,6 +169,7 @@ button:hover {
   margin: 100px 210px 120px 210px;
   padding: 50px 100px 50px;
   border-radius: 8px;
+  border: 2px solid rgb(95, 55, 55);
 }
 
 h3 {
@@ -179,7 +180,7 @@ h3 {
 }
 
 .action-product {
-  color:  rgb(212, 206, 206);
+  color:  rgb(95, 55, 55);
   font-size: 18px;
   font-weight: 500;
   margin-top:-25px;
@@ -191,7 +192,7 @@ h3 {
 }
 
 footer {
-  background-color: #131922;
+  background-image: linear-gradient(to right bottom, #000000, #070707d2, #3f8795, #fa8a84);
   color: white;
   padding: 30px;
   display: flex;
