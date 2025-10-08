@@ -165,11 +165,17 @@ h2 {
   justify-content: space-evenly; 
 }
 
-.flex-container > .box {
+.flex-container > div {
   border: solid #3882F6;
   border-radius: 30px;
   height: 200px;
   width: 300px;
+}
+
+.box img {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
 }
 
 .sub, .sub2, .sub3, .sub4 {
