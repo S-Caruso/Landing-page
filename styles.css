@@ -20,13 +20,21 @@ header li {
   position: absolute;
   margin-left: 60px;
   margin-top: 17px;
-  top: 0; 
+  top: 0;
+  cursor: pointer;
+  transition: 80ms; 
+}
+
+.logo:hover {
+  transform: scale(1.23);
 }
 
 .navbar {
   position: absolute;
   top: 0;
   margin-left: 727px;
+  margin-top: 30px;
+  transition: 80ms;
 }
 
 a[href] {
@@ -40,6 +48,10 @@ li a {
 li {
   font-size: 22px;
   font-weight: 600;
+}
+
+li:hover {
+  transform: scale(1.40);
 }
 
 .maintext {
@@ -73,6 +85,7 @@ button {
   font-weight: 600;
   border-radius: 7px;
   padding: 6px 29px 6px 29px;
+  cursor: pointer;
 }
 
 .button1 {
