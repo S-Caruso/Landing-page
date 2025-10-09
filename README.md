@@ -8,4 +8,4 @@ The assignment point is:
 
 Substitude content and personalize as desired.
 
-<strong>Please note:</strong> beauty salons generally tend to use web pages with white and light backgrounds. I consciously chose to use a more vibrant background image, as it was an excellent opportunity to experiment.
+<strong>Please note:</strong> beauty salons generally tend to use web pages with white and light backgrounds. I consciously chose to use a more vibrant background-image color, as it was an excellent opportunity to experiment.
